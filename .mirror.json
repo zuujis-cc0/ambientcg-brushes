@@ -1,5 +1,10 @@
 {
- "assets": {},
+ "assets": {
+  "WrinklesBrush001": "7128f93ea9dcf73ed9d901574c3b142f2df921d3",
+  "WrinklesBrush002": "fc1fda24a2e9d7f2f05f3a4054a0774d6e65fd63",
+  "WrinklesBrush003": "7e3585167d16145e80492c48520ddaebb2815337",
+  "WrinklesBrush004": "ed1d01a60d345ce424bcb19f129f1ed1c3d8d795"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
